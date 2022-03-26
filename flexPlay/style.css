@@ -1,0 +1,94 @@
+/* resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* body */
+body {
+  font-family: "PT Sans", sans-serif;
+  background-color: purple;
+  text-align: center;
+  color: white;
+}
+
+/* container */
+.container {
+  display: flex;
+  color: black;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  margin: 100px;
+  font-style: italic;
+  align-items: center;
+  justify-content: center;
+}
+
+.container2 {
+  display: flex;
+  color: black;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 100px;
+  font-style: italic;
+  align-items: center;
+  justify-content: center;
+}
+
+/* items */
+.a {
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.b {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.c {
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.d {
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.e {
+  background-color: orange;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.f {
+  background-color: lime;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.g {
+  background-color: teal;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+.h {
+  background-color: tan;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
